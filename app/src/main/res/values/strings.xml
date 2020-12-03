@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trabalho2Bimestre</string>
+    <string name="title_activity_mapa">Map</string>
+
+    <string-array name="veterinarios">
+        <item>Andre</item>
+        <item>Danilo</item>
+        <item>Eduardo</item>
+        <item>Estevao</item>
+        <item>Luis</item>
+        <item>Mariana</item>
+    </string-array>
+
+
+</resources>

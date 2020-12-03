@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/imn1"
+        android:orderInCategory="100"
+        android:title="Inicio"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/imn2"
+        android:orderInCategory="100"
+        android:title="Pets"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/imn3"
+        android:orderInCategory="100"
+        android:title="Serviços"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/imn4"
+        android:orderInCategory="100"
+        android:title="Veterinarios"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/imn5"
+        android:orderInCategory="100"
+        android:title="Localização"
+        app:showAsAction="never" />
+</menu>
